@@ -1,4 +1,4 @@
-package Shape;
+package Week4.Shape;
 
 enum FillType {
     FILLED, NOT_FILLED

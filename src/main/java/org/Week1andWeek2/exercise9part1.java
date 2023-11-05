@@ -1,6 +1,6 @@
-package org.example;
+package org.Week1andWeek2;
 
-public class exercise8part2 {
+public class exercise9part1 {
     private static void drawStarsPyramidUpsideDown(int rows){
 
         for (int i=rows; i>=1; i--){

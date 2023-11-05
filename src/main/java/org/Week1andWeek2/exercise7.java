@@ -1,4 +1,4 @@
-package org.example;
+package org.Week1andWeek2;
 public class exercise7 {
 
     private static void printStars (int amount){

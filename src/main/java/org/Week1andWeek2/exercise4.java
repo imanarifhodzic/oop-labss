@@ -1,4 +1,4 @@
-package org.example;
+package org.Week1andWeek2;
 import java.util.Scanner;
 
 public class exercise4 {

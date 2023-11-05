@@ -1,4 +1,4 @@
-package Shape;
+package Week4.Shape;
 
 public class Main {
     public static void main(String[] args){

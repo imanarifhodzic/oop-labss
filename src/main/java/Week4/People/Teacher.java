@@ -1,6 +1,8 @@
 package Week4.People;
 
-public class Teacher extends Person{
+import Week4.People.Person;
+
+public class Teacher extends Person {
 
     private int salary;
 

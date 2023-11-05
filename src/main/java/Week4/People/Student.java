@@ -1,5 +1,7 @@
 package Week4.People;
 
+import Week4.People.Person;
+
 public class Student extends Person {
     private int credits;
 
