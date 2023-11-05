@@ -3,6 +3,7 @@ package Week5.Boxes;
 import java.util.ArrayList;
 interface ToBeStored {
     double weight();
+    //testing
 }
 class Book implements ToBeStored {
     private String writer;
