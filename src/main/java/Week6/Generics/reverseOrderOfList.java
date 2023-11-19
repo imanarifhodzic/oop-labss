@@ -3,6 +3,9 @@ package Week6.Generics;
 import java.util.ArrayList;
 import java.util.List;
 
+//upcasting
+
+
 public class reverseOrderOfList {
     public static < T > List < T > reverseList(List< T > originalList) {
         List < T > reversedList = new ArrayList<>();
