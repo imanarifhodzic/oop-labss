@@ -20,7 +20,7 @@ public class Start {
 
         GradeAnalyzer gradeAnalyzer = new GradeAnalyzer(student.getGrades());
 
-        //reflection code
+
         Class<?> gradeAnalyzerClass = gradeAnalyzer.getClass();
         Field[] fields = gradeAnalyzerClass.getDeclaredFields();
 

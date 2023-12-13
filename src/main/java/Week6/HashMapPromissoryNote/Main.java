@@ -18,9 +18,6 @@ class PromissoryNote {
     }
 
     public double howMuchIsTheDebt(String whose) {
-        // Impossible to get 0 since return type of this method() is double.
-        // I tried casting, still doesn't work.
-
         if (!debts.containsKey(whose)) {
             return 0;
         } else {

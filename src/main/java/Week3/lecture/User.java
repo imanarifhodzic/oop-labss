@@ -2,6 +2,8 @@ package Week3.lecture;
 
 public class User {
     private String name;
+    private Gender gender;
+    private int age;
 
     public void setName(String name) {
         this.name = name;
@@ -15,8 +17,6 @@ public class User {
         this.age = age;
     }
 
-    private Gender gender;
-    private int age;
     public String getName() {
         return name;
     }
